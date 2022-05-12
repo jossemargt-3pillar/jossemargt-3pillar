@@ -1,5 +1,5 @@
-👋  Hi, I am Jonnatan Jossemar Cordero, and this is my 3Pillar consultant account (@jossemargt-3pillar). If you want to check the projects I work on in my spare time, the only thing you need to do is to drop the corporate suffix from this account handle ;)
+👋  Hi, I am Jonnatan Jossemar Cordero, and this is my 3Pillar consultant account (@jossemargt-3pillar). If you want to check the projects I work on in my spare time, then simply remove the corporate suffix from this account handle.
 
-👀 Currently, I assist k3s/rke2 maintainers in automating and documenting their processes. These kubernetes distributions are way so awesome! And it took me a while to get a better notion of them, so I am looking forward to easing that learning curve for future contributors.
+👀 Have you heard about [K3S](https://github.com/k3s-io/k3s) and [RKE2](https://github.com/rancher/rke2) Kubernetes distributions? If you don't, go and explore those marvelous projects! The former is my favorite 🤫 . By the way, I got the chance to assist their core maintainers in documenting and automating their release processes, and it has been a blast.
 
-🌱 I am versed in different programming languages. So instead of keep polishing my hard skills, I am investing more in the soft ones. Currently, I am interested in management and communication.
+🌱 I don't know what comes in the future, but I can assure you I have enjoyed the process so far.
